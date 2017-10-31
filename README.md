@@ -1,3 +1,3 @@
 # rl-learning
 
-This repository is build for learning algorithms about Reinforment Learning    
+This repository is built for learning algorithms about Reinforment Learning    
